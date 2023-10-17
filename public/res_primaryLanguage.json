@@ -1,0 +1,285 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 I'm Mohammad Shasho. +5 Years of experience in Computer Science field, and +2 years of work experience within Android Development. Proficient in Kotlin and Java. I am interested in Android Technologies in general and cross-platform Development, I am driven to continuously enhance my skills and knowledge in the Android ecosystem. Thank you 💚",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Canary - Learn English",
+      "startDate": "2022-2023",
+      "description": "🐤 Canary Learn English Language is an educational application for learning English in an engaging and interactive manner. With many features, including an extensive dictionary, Different Levels of Lessons, Interactive Exercises, Share Lessons with Friends, Save Lessons as PDF Files, Get tips, Study Offline, this application is an indispensable resource for English language learners, and the ability to create personalized PDFs. 📚💚",
+      "images": [
+        "images/portfolio/canary/logo.jpg",
+        "images/portfolio/canary/promo.mp4"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.canary.learnenglish",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-kotlin-plain colored",
+          "name": "Kotlin"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        }
+      ]
+    },
+    {
+      "title": "Scholar",
+      "startDate": "2022-2023",
+      "description": "An all-inclusive digital school platform, spanning from primary to secondary education, offering educational videos, summaries, and student-authored motivation stories. It also empowers teachers to share their resources like textbooks, notes, and videos, while students can make affordable purchases via a virtual wallet replenished through minimal spending. Administrators continually enrich the platform with education-specific content. 💙",
+      "images": [
+        "images/portfolio/scholar/logo.png"
+      ],
+      "url": "https://github.com/mohamedshasho/Scholar",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-kotlin-plain colored",
+          "name": "Kotlin"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        }
+      ]
+    },
+    {
+      "title": "Complex Fractal",
+      "startDate": "2022",
+      "description": "Developed a mobile app for Complex Fractal company, Complexfractal: Your financial markets companion. Unlock market complexities with fractal analysis through our mobile app. Leverage advanced algorithms and data tools to spot fractal patterns, predict price movements, and secure your trading success. Experience a user-friendly interface designed for all traders, from beginners to pros. Complexfractal: Your gateway to financial prosperity",
+      "images": [
+        "images/portfolio/complex/logo.jpg"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.complex.fractal",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-firebase-plain colored",
+          "name": "Firebase"
+        }
+      ]
+    },
+    {
+      "title": "Sheikh Al-Souq",
+      "startDate": "2022",
+      "description": "During my position at Kerosene Tech, I played a pivotal role in the development of the main project, the 'Sheikh Al-Souq' multi-vendor marketplace app, a dynamic app brought to life by Kerosene Tech. This innovative platform redefines how businesses connect with customers. It allows you to showcase your name, number, and address and craft a personalized business gallery, all while retaining control over your content and the app's appearance. But that's just the beginning – Sheikh Al-Souq, developed by Kerosene Tech, offers a complete electronic market with an affordable annual subscription, revolutionizing your online presence. Communication, shopping, and news sharing become effortless. Embrace cutting-edge technology to reshape your business.",
+      "images": [
+        "images/portfolio/SheikhAlSouq/logo.jpg"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.ramikabbani.sheikhssouk",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-java-plain colored",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-sqlite-plain-wordmark colored",
+          "name": "SQLite"
+        }
+      ]
+    },
+    {
+      "title": "Smart ADs",
+      "startDate": "2022",
+      "description": "Developed an advertising app streamlining billboard and social media promotions for user-defined advertising campaigns. :)",
+      "images": [
+        "images/portfolio/smartads/logo.png"
+      ],
+      "url": "https://github.com/mohamedshasho/Advertisement_Services_App",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-php-plain colored",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        }
+      ]
+    },
+    {
+      "title": "Tasawq - Ecommerce App",
+      "startDate": "2021",
+      "description": "🌇 Multi-vendor shopping app that enables user login to access product listings and nearby stores for various features, including product ratings, following stores, messaging, and more. The app empowers store owners to efficiently manage their product listings, oversee followers, monitor reviews, and facilitate real-time messaging. Additionally, it incorporates a map feature and supports notification sending. 🌐🗺",
+      "images": [
+        "images/portfolio/tasawq/logo.png",
+        "images/portfolio/tasawq/promo.mp4"
+      ],
+      "url": "https://github.com/mohamedshasho/E-commerce-App-Flutter-and-PHP",
+      "play_url": "https://play.google.com/store/apps/details?id=com.tasawqgo.net",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-firebase-plain colored",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-googlecloud-plain colored",
+          "name": "Google"
+        }
+      ]
+    },
+    {
+      "title": "Snakes and Ladders",
+      "startDate": "2020 - 2021",
+      "description": "🏆 Popular and engaging classic board game that has garnered over 20K downloads. It offers users the exciting opportunity to play the game either online with multiplayer functionality or offline. 🎲",
+      "images": [
+        "images/portfolio/snakesandladders/logo.png"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.snakeandladder.game",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-firebase-plain colored",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-sqlite-plain-wordmark colored",
+          "name": "SQLite"
+        }
+      ]
+    },
+    {
+      "title": "The Health App",
+      "startDate": "2020",
+      "description": "🍕 This application suggests the best food for your body condition, along with your body condition index and recommendations for actions. It provides healthy food options, their ingredients, and preparation methods. It also covers various types of general sports, their benefits, and drawbacks. 🤸‍♂️",
+      "images": [
+        "images/portfolio/theHealth/logo.jpg",
+        "images/portfolio/theHealth/theHealth.mp4"
+      ],
+      "url": "https://github.com/mohamedshasho/The-Health-App",
+      "play_url": "",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Freelance",
+      "title": "Android Developer",
+      "years": "08.2022 - present",
+      "mainTech": [
+        "Android Development",
+        "Kotlin",
+        "JetPack Compose",
+        "Java"
+      ],
+      "technologies": [
+        "Android",
+        "Kotlin",
+        "Java",
+        "Jetpack Compose",
+        "Clean Architecture",
+        "MVVM",
+        "Hilt",
+        "Coroutines",
+        "Flow",
+        "Database",
+        "Firebase",
+        "APIs",
+        "Deep Link",
+        "Git",
+        "Best Practices"
+      ]
+    },
+    {
+      "company": "Kerosene Tech",
+      "title": "Android Developer",
+      "years": "03.2022 - 09.2022",
+      "mainTech": [
+        "Android Development",
+        "Java"
+      ],
+      "technologies": [
+        "Android",
+        "Java",
+        "Clean Architecture",
+        "MVVM",
+        "Dependency Injection",
+        "Room",
+        "APIs",
+        "Retrofit2"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "title": "Mobile Developer",
+      "years": "01.2020 - 01.2022",
+      "mainTech": [
+        "Android",
+        "Flutter",
+        "Dart"
+      ],
+      "technologies": [
+        "State Management",
+        "Clean Code",
+        "SQL",
+        "Firebase",
+        "APIs",
+        "Git",
+        "Push Notifications",
+        "Real-time",
+        "Map"
+      ]
+    }
+  ]
+}
