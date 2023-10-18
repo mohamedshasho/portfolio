@@ -40,7 +40,8 @@
       "startDate": "2022-2023",
       "description": "An all-inclusive digital school platform, spanning from primary to secondary education, offering educational videos, summaries, and student-authored motivation stories. It also empowers teachers to share their resources like textbooks, notes, and videos, while students can make affordable purchases via a virtual wallet replenished through minimal spending. Administrators continually enrich the platform with education-specific content. 💙",
       "images": [
-        "images/portfolio/scholar/logo.png"
+        "images/portfolio/scholar/logo.png",
+        "images/portfolio/scholar/promo.mp4"
       ],
       "url": "https://github.com/mohamedshasho/Scholar",
       "technologies": [
