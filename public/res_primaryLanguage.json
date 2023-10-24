@@ -253,6 +253,7 @@
       "technologies": [
         "Android",
         "Java",
+        "RxJava",
         "Clean Architecture",
         "MVVM",
         "Dependency Injection",
