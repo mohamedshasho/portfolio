@@ -37,6 +37,30 @@
       ]
     },
     {
+      "title": "Snakes and Ladders",
+      "startDate": "2023",
+      "description": "🏆 Popular and engaging classic board game that has garnered over 20K downloads. It offers users the exciting opportunity to play the game either online with multiplayer functionality or offline. 🎲",
+      "images": [
+        "images/portfolio/snakesandladders/logo.png"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.snakeandladder.game",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-kotlin-plain colored",
+          "name": "Kotlin"
+        },
+        {
+          "class": "devicon-sqlite-plain-wordmark colored",
+          "name": "Room"
+        }
+      ]
+    },
+    {
       "title": "Scholar",
       "startDate": "2022-2023",
       "description": "An all-inclusive digital school platform, spanning from primary to secondary education, offering educational videos, summaries, and student-authored motivation stories. It also empowers teachers to share their resources like textbooks, notes, and videos, while students can make affordable purchases via a virtual wallet replenished through minimal spending. Administrators continually enrich the platform with education-specific content. 💙",
@@ -164,34 +188,7 @@
         }
       ]
     },
-    {
-      "title": "Snakes and Ladders",
-      "startDate": "2020 - 2021",
-      "description": "🏆 Popular and engaging classic board game that has garnered over 20K downloads. It offers users the exciting opportunity to play the game either online with multiplayer functionality or offline. 🎲",
-      "images": [
-        "images/portfolio/snakesandladders/logo.png"
-      ],
-      "url": "",
-      "play_url": "https://play.google.com/store/apps/details?id=com.snakeandladder.game",
-      "technologies": [
-        {
-          "class": "devicon-dart-plain colored",
-          "name": "Dart"
-        },
-        {
-          "class": "devicon-flutter-plain colored",
-          "name": "Flutter"
-        },
-        {
-          "class": "devicon-firebase-plain colored",
-          "name": "Firebase"
-        },
-        {
-          "class": "devicon-sqlite-plain-wordmark colored",
-          "name": "SQLite"
-        }
-      ]
-    },
+   
     {
       "title": "The Health App",
       "startDate": "2020",
