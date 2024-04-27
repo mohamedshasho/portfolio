@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hello",
-    "description": "👋 I'm Mohammad Shasho. +5 Years of experience in Computer Science field, and +2 years of work experience within Android Development. Proficient in Kotlin and Java. I am interested in Android Technologies in general and cross-platform Development, I am driven to continuously enhance my skills and knowledge in the Android ecosystem. Thank you 💚",
+    "description": "👋 I'm Mohammad Shasho, a computer science professional with 5+ years of experience, focusing on mobile development for 3+ years. Passionate about Android technologies and cross-platform development, I continuously enhance my skills to stay ahead in the mobile ecosystem. Thank you 💚",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -188,7 +188,6 @@
         }
       ]
     },
-   
     {
       "title": "The Health App",
       "startDate": "2020",
@@ -213,9 +212,31 @@
   ],
   "experience": [
     {
+      "company": "iSolution",
+      "title": "Mobile Developer",
+      "years": "01.2024 - present",
+      "mainTech": [
+        "Mobile Development",
+        "Flutter",
+        "Laravel"
+      ],
+      "technologies": [
+        "Dart",
+        "PHP",
+        "GetX",
+        "MySQL",
+        "APIs",
+        "MVC",
+        "Clean Architecture",
+        "Git",
+        "Google Cloud",
+        "Agile"
+      ]
+    },
+    {
       "company": "Freelance",
       "title": "Android Developer",
-      "years": "08.2022 - present",
+      "years": "08.2022 - 01.2024",
       "mainTech": [
         "Android Development",
         "Kotlin",
