@@ -3,7 +3,7 @@ import { Icon } from "@iconify/react";
 import androidIcon from "@iconify/icons-logos/android-icon";
 import kotlinIcon from "@iconify/icons-logos/kotlin";
 import javaIcon from "@iconify/icons-logos/java";
-import profileShasho from "../assets/myProfile.png"
+import profileShasho from "../assets/myProfile.jpg"
 class About extends Component {
   render() {
 
