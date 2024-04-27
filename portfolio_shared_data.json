@@ -2,8 +2,7 @@
   "basic_info": {
     "name": "Mohammad Shasho",
     "titles": [
-      "Android Developer",
-      "Mobile Engineer",
+      "Mobile Developer",
       "Software Engineer"
     ],
     "social": [
@@ -33,6 +32,11 @@
         "level": "95"
       },
       {
+        "name": "Flutter",
+        "class": "devicon-flutter-plain",
+        "level": "90"
+      },
+      {
         "name": "Android Studio",
         "class": "devicon-androidstudio-plain",
         "level": "95"
@@ -47,7 +51,6 @@
         "class": "devicon-java-plain",
         "level": "90"
       },
-      
       {
         "name": "Firebase",
         "class": "devicon-firebase-plain",
@@ -56,12 +59,7 @@
       {
         "name": "Dart",
         "class": "devicon-dart-plain",
-        "level": "80"
-      },
-      {
-        "name": "Flutter",
-        "class": "devicon-flutter-plain",
-        "level": "80"
+        "level": "95"
       },
       {
         "name": "Git",
@@ -74,7 +72,7 @@
         "level": "75"
       },
       {
-        "name": "UI/UX Design",
+        "name": "UX Pinciples",
         "class": "devicon-materialui-plain",
         "level": "70"
       },
