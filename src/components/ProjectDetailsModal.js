@@ -16,7 +16,7 @@ class ProjectDetailsModal extends Component {
       var description = this.props.data.description;
       var url = this.props.data.url;
       var play_url = this.props.data.play_url;
-
+      var play_url = this.props.data.apple_url;
 
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
@@ -112,6 +112,23 @@ class ProjectDetailsModal extends Component {
                 >
                   <i
                     class="fab fa-google-play"
+                    style={{
+                      marginLeft: check ? null : "10px",
+                      marginRight: check ? "10px" : null,
+                      color: "blue"
+                    }}
+                  ></i>
+                </a>
+              ) : null}
+              {apple_url ? (
+                <a
+                  href={play_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="link-href"
+                >
+                  <i
+                    class="fab fa-app-store-ios"
                     style={{
                       marginLeft: check ? null : "10px",
                       marginRight: check ? "10px" : null,
