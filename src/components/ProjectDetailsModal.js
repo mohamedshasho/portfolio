@@ -16,7 +16,7 @@ class ProjectDetailsModal extends Component {
       var description = this.props.data.description;
       var url = this.props.data.url;
       var play_url = this.props.data.play_url;
-      var play_url = this.props.data.apple_url;
+      var apple_url = this.props.data.apple_url;
 
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
