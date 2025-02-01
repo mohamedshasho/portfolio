@@ -122,7 +122,7 @@ class ProjectDetailsModal extends Component {
               ) : null}
               {apple_url ? (
                 <a
-                  href={play_url}
+                  href={apple_url}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="link-href"

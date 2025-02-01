@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "name": "Mohammad Shasho",
+    "titles": [
+      "Mobile Developer",
+      "Software Engineer"
+    ],
+    "social": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/mohamedshasho",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/mohammad-shasho/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "Email",
+        "url": "mailto:mohamedshasho1@gmail.com",
+        "class": "fas fa-envelope"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Android",
+        "class": "devicon-android-plain",
+        "level": "95"
+      },
+      {
+        "name": "Flutter",
+        "class": "devicon-flutter-plain",
+        "level": "90"
+      },
+      {
+        "name": "Android Studio",
+        "class": "devicon-androidstudio-plain",
+        "level": "95"
+      },
+      {
+        "name": "Kotlin",
+        "class": "devicon-kotlin-plain",
+        "level": "95"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "90"
+      },
+      {
+        "name": "Firebase",
+        "class": "devicon-firebase-plain",
+        "level": "85"
+      },
+      {
+        "name": "Dart",
+        "class": "devicon-dart-plain",
+        "level": "95"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "80"
+      },
+      {
+        "name": "GitHub",
+        "class": "devicon-github-original",
+        "level": "75"
+      },
+      {
+        "name": "UX Pinciples",
+        "class": "devicon-materialui-plain",
+        "level": "70"
+      },
+      {
+        "name": "CI/CD",
+        "class": "devicon-circleci-plain",
+        "level": "70"
+      },
+      {
+        "name": "VS Code",
+        "class": "devicon-vscode-plain",
+        "level": "70"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "80"
+      },
+      {
+        "name": "Laravel",
+        "class": "devicon-laravel-plain",
+        "level": "80"
+      }
+    ]
+  }
+}
