@@ -11,6 +11,29 @@
   },
   "projects": [
     {
+      "title": "Qareb",
+      "startDate": "2024-2025",
+      "description": "Qareb is an innovative online marketplace dedicated to serving the fishing community in Saudi Arabia with expansion currently underway across the entire GCC and MENA region. - at iSolution",
+      "images": [
+        "images/portfolio/qareb/logo.jpg"
+      ],
+      "url": "https://qareb.com/",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-googlecloud-plain colored",
+          "name": "Google Cloud"
+        }
+      ]
+    },
+    {
       "title": "Canary - Learn English",
       "startDate": "2022-2023",
       "description": "🐤 Canary Learn English Language is an educational application for learning English in an engaging and interactive manner. With many features, including an extensive dictionary, Different Levels of Lessons, Interactive Exercises, Share Lessons with Friends, Save Lessons as PDF Files, Get tips, Study Offline, this application is an indispensable resource for English language learners, and the ability to create personalized PDFs. 📚💚",
