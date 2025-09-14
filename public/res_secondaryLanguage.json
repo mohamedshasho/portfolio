@@ -11,6 +11,30 @@
   },
   "projects": [
     {
+      "title": "OnTime",
+      "startDate": "2025",
+      "description": "أون تايم هو تطبيق متكامل لإدارة الموارد البشرية، يسهّل إدارة الإجازات، الحضور، المصروفات، طلبات السفر وكشوف الرواتب في مكان واحد. يساعد الموظفين على البقاء منظمين، ويتيح للمديرين التعامل مع الموافقات بسرعة، ليبقى كل شيء واضحًا وبسيطًا وفي الوقت المناسب. - في iSolution",
+      "images": [
+        "images/portfolio/ontime/logo.png"
+      ],
+      "play_url": "https://play.google.com/store/apps/details?id=com.isolutions.ontime.mobile_ontime",
+      "apple_url": "https://apps.apple.com/us/app/isolutions-ontime/id6447630517",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-googlecloud-plain colored",
+          "name": "Google Cloud"
+        }
+      ]
+    },
+    {
       "title": "Qareb",
       "startDate": "2024-2025",
       "description": "قارب سوق الكتروني مخصص لمساعدة مجتمع الصيادين في المملكة العربية السعودية مع التوسع الحالي في منطقة الخليج العربي لأغلبية الشرق الأوسط وأغلبهم. - في iSolution",
