@@ -11,13 +11,37 @@
   },
   "projects": [
     {
+      "title": "OnTime",
+      "startDate": "2025",
+      "description": "OnTime is an all-in-one HR management app that makes it easy to manage leaves, attendance, expenses, travel requests, and payslips in one place. It helps employees stay organized and managers handle approvals quickly, keeping everything clear, simple, and on time. - at iSolution",
+      "images": [
+        "images/portfolio/ontime/logo.png"
+      ],
+      "play_url": "https://play.google.com/store/apps/details?id=com.isolutions.ontime.mobile_ontime",
+      "apple_url": "https://apps.apple.com/us/app/isolutions-ontime/id6447630517",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-googlecloud-plain colored",
+          "name": "Google Cloud"
+        }
+      ]
+    },
+    {
       "title": "Qareb",
       "startDate": "2024-2025",
       "description": "Qareb is an innovative online marketplace dedicated to serving the fishing community in Saudi Arabia with expansion currently underway across the entire GCC and MENA region. - at iSolution",
       "images": [
         "images/portfolio/qareb/logo.jpg"
       ],
-      "play_url": "https://play.google.com/store/apps/details?id=com.canary.learnenglish",
+      "play_url": "https://play.google.com/store/apps/details?id=com.thewebaddicts.qarebsa",
       "apple_url": "https://apps.apple.com/us/app/qareb/id1641705339",
       "technologies": [
         {
