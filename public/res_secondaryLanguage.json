@@ -1,12 +1,16 @@
 {
   "basic_info": {
-    "description_header": "مرحبًا",
-    "description": "👋أنا محمد شاشو، محترف في علم الحاسوب لدي خبرة تزيد عن 5 سنوات، متخصص في تطوير التطبيقات المحمولة لأكثر من 3 سنوات. أشعر بشغف تجاه تقنيات الأندرويد وتطوير التطبيقات عبر منصات متعددة، وأسعى دائمًا لتحسين مهاراتي للبقاء على اطلاع دائم في عالم التطبيقات المحمولة. شكراً💚",
+    "description_header": "مرحباً، أنا محمد",
+    "description": "🚀 مطور تطبيقات جوال أول بخبرة تفوق 5 سنوات في تطوير تطبيقات أندرويد وفلاتر عالية الجودة. نجحت في تسليم أكثر من 10 تطبيقات إنتاجية بأكثر من 50 ألف تحميل مجموعة. خبير في الهندسة النظيفة (Clean Architecture) وتطوير التطبيقات متعددة المنصات وقيادة مشاريع الجوال من الفكرة إلى الإطلاق. شغوف بإنشاء تجارب جوال أنيقة وعالية الأداء يحبها المستخدمين. لنبني شيئاً رائعاً معاً! 💚",
     "section_name": {
       "about": "عنّي",
       "projects": "المشاريع",
       "skills": "المهارات",
-      "experience": "الخبرة"
+      "experience": "الخبرة",
+      "services": "الخدمات",
+      "testimonials": "التوصيات",
+      "contact": "تواصل معي",
+      "education": "التعليم والشهادات"
     }
   },
   "projects": [
@@ -14,9 +18,7 @@
       "title": "OnTime",
       "startDate": "2025",
       "description": "أون تايم هو تطبيق متكامل لإدارة الموارد البشرية، يسهّل إدارة الإجازات، الحضور، المصروفات، طلبات السفر وكشوف الرواتب في مكان واحد. يساعد الموظفين على البقاء منظمين، ويتيح للمديرين التعامل مع الموافقات بسرعة، ليبقى كل شيء واضحًا وبسيطًا وفي الوقت المناسب. - في iSolution",
-      "images": [
-        "images/portfolio/ontime/logo.png"
-      ],
+      "images": ["images/portfolio/ontime/logo.png"],
       "play_url": "https://play.google.com/store/apps/details?id=com.isolutions.ontime.mobile_ontime",
       "apple_url": "https://apps.apple.com/us/app/isolutions-ontime/id6447630517",
       "technologies": [
@@ -38,9 +40,7 @@
       "title": "Qareb",
       "startDate": "2024-2025",
       "description": "قارب سوق الكتروني مخصص لمساعدة مجتمع الصيادين في المملكة العربية السعودية مع التوسع الحالي في منطقة الخليج العربي لأغلبية الشرق الأوسط وأغلبهم. - في iSolution",
-      "images": [
-        "images/portfolio/qareb/logo.jpg"
-      ],
+      "images": ["images/portfolio/qareb/logo.jpg"],
       "play_url": "https://play.google.com/store/apps/details?id=com.thewebaddicts.qarebsa",
       "apple_url": "https://apps.apple.com/us/app/qareb/id1641705339",
       "technologies": [
@@ -88,9 +88,7 @@
       "title": "لعبة السلم والأفاعي",
       "startDate": "2023",
       "description": "🏆 لعبة اللوحة الكلاسيكية المشهورة والممتعة التي حققت أكثر من 40,000 تنزيل. تقدم للمستخدمين الفرصة المثيرة للعب اللعبة عبر الإنترنت مع إمكانية اللعب مع لاعبين آخرين أو دون اتصال بالإنترنت. 🎲",
-      "images": [
-        "images/portfolio/snakesandladders/logo.png"
-      ],
+      "images": ["images/portfolio/snakesandladders/logo.png"],
       "url": "",
       "play_url": "https://play.google.com/store/apps/details?id=com.snakeandladder.game",
       "technologies": [
@@ -140,9 +138,7 @@
       "title": "Complex Fractal",
       "startDate": "2022",
       "description": " تطوير تطبيق محمول لشركة Complex Fractal . Complex Fractal: رفيقك في الأسواق المالية. اكتشف تعقيدات الأسواق بتحليل البنية التكرارية من خلال تطبيقنا المحمول. استفد من خوارزميات متقدمة وأدوات تحليل البيانات لاكتشاف نماذج البنية التكرارية والتنبؤ بحركة الأسعار وضمان نجاح تداولك. تجربة واجهة سهلة الاستخدام مصممة لجميع التجار، من المبتدئين إلى المحترفين. Complex Fractal: بوابتك إلى الرخاء المالي",
-      "images": [
-        "images/portfolio/complex/logo.jpg"
-      ],
+      "images": ["images/portfolio/complex/logo.jpg"],
       "url": "",
       "play_url": "https://play.google.com/store/apps/details?id=com.complex.fractal",
       "technologies": [
@@ -164,9 +160,7 @@
       "title": "شيخ السوق",
       "startDate": "2022",
       "description": "خلال وظيفتي في شركة الكيروسين تكنولوجي، لعبت دورًا حاسمًا في تطوير المشروع الرئيسي، تطبيق سوق الشيخ الكبير للبائعين المتعددين، تطبيق دينامي قدمته شركة الكيروسين تكنولوجي. هذه المنصة المبتكرة تعيد تعريف كيفية تواصل الشركات مع عملائها. إنها تسمح لك بعرض اسمك ورقم هاتفك وعنوانك وإنشاء معرض أعمال مخصص، وذلك مع الحفاظ على السيطرة على محتواك ومظهر التطبيق. لكن هذا ليس كل شيء – تطبيق سوق الشيخ الكبير، الذي طورته شركة الكيروسين تكنولوجي، يقدم سوقًا إلكترونيًا كاملاً باشتراك سنوي معقول، مما يحدث ثورة في الوجود عبر الإنترنت. يصبح التواصل والتسوق ومشاركة الأخبار أمورًا سهلة. اعتنق التكنولوجيا المتطورة لإعادة تشكيل عملك.",
-      "images": [
-        "images/portfolio/SheikhAlSouq/logo.jpg"
-      ],
+      "images": ["images/portfolio/SheikhAlSouq/logo.jpg"],
       "url": "",
       "play_url": "https://play.google.com/store/apps/details?id=com.ramikabbani.sheikhssouk",
       "technologies": [
@@ -188,9 +182,7 @@
       "title": "إعلانات ذكية",
       "startDate": "2022",
       "description": "قمت بتطوير تطبيق إعلاني يبسط عمليات الإعلان على اللوحات الإعلانية ووسائل التواصل الاجتماعي لحملات الإعلان المحددة من قبل المستخدم. :)",
-      "images": [
-        "images/portfolio/smartads/logo.png"
-      ],
+      "images": ["images/portfolio/smartads/logo.png"],
       "url": "https://github.com/mohamedshasho/Advertisement_Services_App",
       "technologies": [
         {
@@ -265,91 +257,101 @@
   "experience": [
     {
       "company": "iSolution",
-      "title": "مطور تطبيقات الجوال",
+      "title": "Full-Stack Mobile Developer",
       "years": "01.2024 - الوقت الحالي",
-      "mainTech": [
-        "Mobile Development",
-        "Flutter",
-        "Laravel"
+      "description": "تطوير وصيانة تطبيقات موبايل متعددة المنصات مع التركيز على الأداء، الأمان، وسهولة التوسع.",
+      "responsibilities": [
+        "تطوير تطبيقات Flutter جاهزة للإنتاج",
+        "تصميم بنية نظيفة وقابلة للتوسع للتطبيقات",
+        "ربط الميزات مع واجهات برمجية خلفية",
+        "أتمتة عمليات البناء والنشر باستخدام CI/CD"
       ],
+      "mainTech": ["Flutter", "Laravel", "Google Cloud"],
       "technologies": [
         "Dart",
         "PHP",
-        "GetX",
         "MySQL",
-        "APIs",
-        "MVC",
+        "REST APIs",
         "Clean Architecture",
+        "CI/CD",
+        "Fastlane",
         "Git",
-        "Google Cloud",
+        "Mobile Security",
         "Agile"
       ]
     },
     {
       "company": "العمل الحر",
-      "title": "مطور تطبيقات الأندرويد",
+      "title": "مطور تطبيقات الموبايل",
       "years": "08.2022 - 01.2024",
-      "mainTech": [
-        "تطوير الأندرويد",
-        "كوتلين",
-        "جيت باك كومبوز",
-        "الجافا"
+      "description": "تنفيذ تطبيقات أندرويد كاملة من الفكرة حتى الإطلاق باستخدام أحدث أدوات أندرويد.",
+      "responsibilities": [
+        "بناء تطبيقات أندرويد حسب متطلبات العملاء",
+        "تطبيق أنماط MVVM و Clean Architecture",
+        "دمج Firebase والخدمات الخارجية",
+        "تحسين الأداء والاستقرار عبر الأجهزة المختلفة"
       ],
+      "mainTech": ["Kotlin", "Jetpack Compose", "Flutter"],
       "technologies": [
-        "الأندرويد",
-        "كوتلين",
-        "الجافا",
-        "جيت باك كومبوز",
-        "الهيلت",
-        "كوروتين",
-        "فلو",
-        "قاعدة بيانات",
-        "فايربيس",
-        "واجهات برمجة التطبيقات",
-        "ربط عميق",
-        "جيت",
-        "أفضل الممارسات"
+        "Android",
+        "Kotlin",
+        "Jetpack Compose",
+        "Coroutines",
+        "Hilt",
+        "Room",
+        "Firebase",
+        "REST APIs",
+        "Deep Linking",
+        "Git"
       ]
     },
     {
       "company": "Kerosene Tech",
       "title": "مطور تطبيقات الأندرويد",
       "years": "03.2022 - 09.2022",
-      "mainTech": [
-        "تطوير الأندرويد",
-        "الجافا"
+      "description": "المشاركة في تطوير تطبيق سوق إلكتروني متعدد البائعين مع تحسين الكود وتجربة المستخدم.",
+      "responsibilities": [
+        "تطوير ميزات أساسية داخل التطبيق",
+        "تحسين وإعادة هيكلة الكود الحالي",
+        "استهلاك واجهات REST وإدارة البيانات المحلية",
+        "العمل ضمن فريق باستخدام منهجية Agile"
       ],
+      "mainTech": ["Android", "Java", "MVVM"],
       "technologies": [
-        "الأندرويد",
-        "الجافا",
-        "RxJava",
-        "الهندسة النظيفة",
-        "النموذج العرضي للعرض",
-        "حقن الاعتماد",
+        "Android",
+        "Java",
+        "MVVM",
+        "Clean Architecture",
         "Room",
-        "واجهات برمجة التطبيقات",
-        "Retrofit2"
+        "Retrofit2",
+        "REST APIs",
+        "Dependency Injection",
+        "Git"
       ]
     },
     {
       "company": "العمل الحر",
       "title": "مطور تطبيقات الجوال",
       "years": "01.2020 - 01.2022",
-      "mainTech": [
-        "الأندرويد",
-        "فلاتر",
-        "دارت"
+      "description": "تطوير تطبيقات Flutter وأندرويد لعملاء في مجالات مختلفة مع التركيز على الجودة وتجربة المستخدم.",
+      "responsibilities": [
+        "بناء تطبيقات موبايل متعددة المنصات",
+        "دمج APIs و Firebase والإشعارات",
+        "تجهيز ونشر التطبيقات على المتاجر",
+        "التواصل المباشر مع العملاء وتحليل المتطلبات"
       ],
+      "mainTech": ["Flutter", "Android", "Dart"],
       "technologies": [
-        "إدارة الحالة",
-        "الكود النظيف",
-        "SQL",
-        "فايربيس",
-        "واجهات برمجة التطبيقات",
-        "جيت",
-        "إرسال الإشعارات",
-        "في الوقت الحقيقي",
-        "الخرائط"
+        "Flutter",
+        "Android",
+        "Dart",
+        "Firebase",
+        "REST APIs",
+        "State Management",
+        "SQLite",
+        "Push Notifications",
+        "Google Maps",
+        "Git"
       ]
     }
   ]

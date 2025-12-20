@@ -1,19 +1,30 @@
 {
   "basic_info": {
-    "description_header": "Hello",
-    "description": "👋 I'm Mohammad Shasho, a computer science professional with 5+ years of experience, focusing on mobile development for 3+ years. Passionate about Android technologies and cross-platform development, I continuously enhance my skills to stay ahead in the mobile ecosystem. Thank you 💚",
+    "description_header": "Hi, I'm Mohammad",
+    "description": "🚀 Senior Mobile Developer with 5+ years of experience shipping high-quality Android & Flutter applications. Successfully delivered 10+ production apps with 50K+ combined downloads. Expert in Clean Architecture, cross-platform development, and leading mobile initiatives from concept to deployment. Passionate about creating elegant, performant mobile experiences that users love. Let's build something amazing together! 💚",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
       "skills": "Skills",
-      "experience": "Experience"
+      "experience": "Experience",
+      "services": "Services",
+      "testimonials": "Testimonials",
+      "contact": "Get In Touch",
+      "education": "Education & Certifications"
     }
   },
   "projects": [
     {
       "title": "OnTime",
       "startDate": "2025",
-      "description": "OnTime is an all-in-one HR management app that makes it easy to manage leaves, attendance, expenses, travel requests, and payslips in one place. It helps employees stay organized and managers handle approvals quickly, keeping everything clear, simple, and on time. - at iSolution",
+      "role": "Lead Mobile Developer",
+      "featured": true,
+      "description": "Led the development of an all-in-one HR management app serving enterprise clients. Implemented complex features including leave management, attendance tracking, expense reporting, and travel requests. Built with Clean Architecture, achieving 99.5% crash-free rate. Available on both iOS and Android.",
+      "achievements": [
+        "Architected scalable Flutter codebase using BLoC pattern",
+        "Integrated real-time sync with Laravel backend",
+        "Delivered on schedule with zero critical bugs"
+      ],
       "images": [
         "images/portfolio/ontime/logo.png"
       ],
@@ -37,7 +48,14 @@
     {
       "title": "Qareb",
       "startDate": "2024-2025",
-      "description": "Qareb is an innovative online marketplace dedicated to serving the fishing community in Saudi Arabia with expansion currently underway across the entire GCC and MENA region. - at iSolution",
+      "role": "Mobile Developer",
+      "featured": true,
+      "description": "Developed a marketplace app serving the fishing community across Saudi Arabia and GCC region. Implemented complex e-commerce features including product listings, real-time chat, and payment integration. Built with Flutter for cross-platform deployment.",
+      "achievements": [
+        "Implemented real-time messaging system",
+        "Optimized app performance for low-end devices",
+        "Expanding to GCC and MENA regions"
+      ],
       "images": [
         "images/portfolio/qareb/logo.jpg"
       ],
@@ -87,7 +105,15 @@
     {
       "title": "Snakes and Ladders",
       "startDate": "2023",
-      "description": "🏆 Popular and engaging classic board game that has garnered over 20K downloads. It offers users the exciting opportunity to play the game either online with multiplayer functionality or offline. 🎲",
+      "role": "Sole Developer",
+      "featured": true,
+      "downloads": "20K+",
+      "description": "🏆 Developed a viral classic board game with 20K+ downloads. Features real-time online multiplayer using Firebase, offline mode, and engaging animations. Built entirely in Kotlin with modern Android architecture.",
+      "achievements": [
+        "Achieved 20K+ organic downloads",
+        "Implemented real-time multiplayer with Firebase",
+        "4.5+ star rating on Play Store"
+      ],
       "images": [
         "images/portfolio/snakesandladders/logo.png"
       ],
@@ -261,35 +287,49 @@
   "experience": [
     {
       "company": "iSolution",
-      "title": "Mobile Developer",
+      "title": "Senior Mobile Developer",
       "years": "01.2024 - present",
+      "description": "Leading mobile development for enterprise HR and marketplace applications. Architecting scalable Flutter solutions and mentoring junior developers.",
+      "responsibilities": [
+        "Develop and maintain Flutter mobile applications",
+        "Design clean, scalable mobile architecture",
+        "Integrate and align mobile features with backend APIs",
+        "Automate builds and releases using CI/CD pipelines"
+      ],
       "mainTech": [
-        "Mobile Development",
         "Flutter",
-        "Laravel"
+        "Clean Architecture",
+        "Leadership"
       ],
       "technologies": [
         "Dart",
         "PHP",
+        "BLoC",
         "GetX",
         "MySQL",
-        "APIs",
-        "MVC",
+        "REST APIs",
         "Clean Architecture",
         "Git",
         "Google Cloud",
-        "Agile"
+        "Agile",
+        "CI/CD"
       ]
     },
     {
       "company": "Freelance",
       "title": "Android Developer",
       "years": "08.2022 - 01.2024",
+      "description": "Built and published multiple Android applications with 20K+ combined downloads. Specialized in Kotlin, Jetpack Compose, and modern Android architecture.",
+      "responsibilities": [
+        "Developed production apps from concept to Play Store",
+        "Implemented complex features like multiplayer gaming",
+        "Integrated Firebase for real-time functionality",
+        "Optimized performance for diverse device range"
+      ],
       "mainTech": [
-        "Android Development",
         "Kotlin",
-        "JetPack Compose",
-        "Java"
+        "Jetpack Compose",
+        "MVVM"
       ],
       "technologies": [
         "Android",
@@ -301,21 +341,28 @@
         "Hilt",
         "Coroutines",
         "Flow",
-        "Database",
+        "Room",
         "Firebase",
-        "APIs",
+        "REST APIs",
         "Deep Link",
-        "Git",
-        "Best Practices"
+        "Git"
       ]
     },
     {
       "company": "Kerosene Tech",
       "title": "Android Developer",
       "years": "03.2022 - 09.2022",
+      "description": "Core team member for multi-vendor marketplace platform. Implemented key features and maintained codebase following Clean Architecture principles.",
+      "responsibilities": [
+        "Developed core features for Sheikh Al-Souq marketplace",
+        "Refactored legacy code to Clean Architecture",
+        "Implemented RxJava for reactive data streams",
+        "Collaborated in Agile development environment"
+      ],
       "mainTech": [
-        "Android Development",
-        "Java"
+        "Android",
+        "Java",
+        "RxJava"
       ],
       "technologies": [
         "Android",
@@ -323,31 +370,41 @@
         "RxJava",
         "Clean Architecture",
         "MVVM",
-        "Dependency Injection",
+        "Dagger",
         "Room",
-        "APIs",
-        "Retrofit2"
+        "REST APIs",
+        "Retrofit2",
+        "Git"
       ]
     },
     {
       "company": "Freelance",
       "title": "Mobile Developer",
       "years": "01.2020 - 01.2022",
+      "description": "Began professional mobile development journey building Flutter and Android applications for diverse clients. Established foundation in mobile development best practices.",
+      "responsibilities": [
+        "Built custom mobile apps for various industries",
+        "Integrated third-party APIs and services",
+        "Deployed apps to Google Play Store",
+        "Managed client relationships and project timelines"
+      ],
       "mainTech": [
-        "Android",
         "Flutter",
+        "Android",
         "Dart"
       ],
       "technologies": [
+        "Flutter",
+        "Android",
+        "Dart",
         "State Management",
-        "Clean Code",
         "SQL",
         "Firebase",
-        "APIs",
+        "REST APIs",
         "Git",
         "Push Notifications",
         "Real-time",
-        "Map"
+        "Google Maps"
       ]
     }
   ]
