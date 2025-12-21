@@ -1,0 +1,295 @@
+{
+  "basic_info": {
+    "name": "Mohammad Shasho",
+    "titles": [
+      "Mid-Senior Mobile Developer",
+      "Flutter Expert",
+      "Android Developer",
+      "Full Stack Mobile Developer"
+    ],
+    "social": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/mohamedshasho",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/mohammad-shasho/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "Email",
+        "url": "mailto:mohamedshasho1@gmail.com",
+        "class": "fas fa-envelope"
+      },
+      {
+        "name": "StackOverflow",
+        "url": "https://stackoverflow.com/users/13436099/mohammad-shasho",
+        "class": "fab fa-stack-overflow"
+      }
+    ],
+    "image": "myProfile.png"
+  },
+  "stats": {
+    "years": "4+",
+    "projects": "10+",
+    "downloads": "50K+"
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Mobile Development",
+        "icon": "fas fa-mobile-alt",
+        "skills": [
+          {
+            "name": "Flutter",
+            "class": "devicon-flutter-plain",
+            "level": "95",
+            "expertise": "Expert"
+          },
+          {
+            "name": "Dart",
+            "class": "devicon-dart-plain",
+            "level": "95",
+            "expertise": "Expert"
+          },
+          {
+            "name": "Android",
+            "class": "devicon-android-plain",
+            "level": "95",
+            "expertise": "Proficient"
+          },
+          {
+            "name": "Kotlin",
+            "class": "devicon-kotlin-plain",
+            "level": "95",
+            "expertise": "Expert"
+          },
+          {
+            "name": "Java",
+            "class": "devicon-java-plain",
+            "level": "90",
+            "expertise": "Advanced"
+          },
+          {
+            "name": "Jetpack Compose",
+            "class": "devicon-android-plain",
+            "level": "85",
+            "expertise": "Advanced"
+          }
+        ]
+      },
+      {
+        "name": "Architecture & Patterns",
+        "icon": "fas fa-layer-group",
+        "skills": [
+          {
+            "name": "Clean Architecture",
+            "class": "fas fa-sitemap",
+            "level": "90",
+            "expertise": "Expert"
+          },
+          {
+            "name": "MVVM",
+            "class": "fas fa-cubes",
+            "level": "90",
+            "expertise": "Expert"
+          },
+          {
+            "name": "BLoC Pattern",
+            "class": "devicon-flutter-plain",
+            "level": "85",
+            "expertise": "Advanced"
+          },
+          {
+            "name": "MVC",
+            "class": "fas fa-project-diagram",
+            "level": "85",
+            "expertise": "Advanced"
+          }
+        ]
+      },
+      {
+        "name": "Backend & Services",
+        "icon": "fas fa-server",
+        "skills": [
+          {
+            "name": "Firebase",
+            "class": "devicon-firebase-plain",
+            "level": "90",
+            "expertise": "Expert"
+          },
+          {
+            "name": "REST APIs",
+            "class": "fas fa-plug",
+            "level": "90",
+            "expertise": "Expert"
+          },
+          {
+            "name": "Laravel",
+            "class": "devicon-laravel-plain",
+            "level": "80",
+            "expertise": "Advanced"
+          },
+          {
+            "name": "PHP",
+            "class": "devicon-php-plain",
+            "level": "75",
+            "expertise": "Proficient"
+          },
+          {
+            "name": "MySQL",
+            "class": "devicon-mysql-plain",
+            "level": "80",
+            "expertise": "Advanced"
+          },
+          {
+            "name": "Google Cloud",
+            "class": "devicon-googlecloud-plain",
+            "level": "75",
+            "expertise": "Proficient"
+          }
+        ]
+      },
+      {
+        "name": "DevOps & Tools",
+        "icon": "fas fa-tools",
+        "skills": [
+          {
+            "name": "Git",
+            "class": "devicon-git-plain",
+            "level": "90",
+            "expertise": "Expert"
+          },
+          {
+            "name": "CI/CD",
+            "class": "devicon-circleci-plain",
+            "level": "75",
+            "expertise": "Proficient"
+          },
+          {
+            "name": "Android Studio",
+            "class": "devicon-androidstudio-plain",
+            "level": "95",
+            "expertise": "Expert"
+          },
+          {
+            "name": "VS Code",
+            "class": "devicon-vscode-plain",
+            "level": "85",
+            "expertise": "Advanced"
+          }
+        ]
+      }
+    ],
+    "icons": [
+      { "name": "Android", "class": "devicon-android-plain", "level": "95" },
+      { "name": "Flutter", "class": "devicon-flutter-plain", "level": "95" },
+      { "name": "Kotlin", "class": "devicon-kotlin-plain", "level": "95" },
+      { "name": "Dart", "class": "devicon-dart-plain", "level": "95" },
+      { "name": "Java", "class": "devicon-java-plain", "level": "90" },
+      { "name": "Firebase", "class": "devicon-firebase-plain", "level": "90" },
+      { "name": "Git", "class": "devicon-git-plain", "level": "90" },
+      { "name": "Laravel", "class": "devicon-laravel-plain", "level": "80" },
+      { "name": "PHP", "class": "devicon-php-plain", "level": "75" },
+      { "name": "MySQL", "class": "devicon-mysql-plain", "level": "80" },
+      {
+        "name": "Google Cloud",
+        "class": "devicon-googlecloud-plain",
+        "level": "75"
+      }
+    ]
+  },
+  "services": [
+    {
+      "title": "Native Android Development",
+      "description": "High-performance Android apps using Kotlin and Jetpack Compose with modern architecture patterns.",
+      "icon": "fab fa-android"
+    },
+    {
+      "title": "Cross-Platform Flutter Apps",
+      "description": "Beautiful, fast apps for iOS and Android from a single codebase.",
+      "icon": "fas fa-mobile-alt"
+    },
+    {
+      "title": "Full-Stack Web Integration",
+      "description": "Integrating mobile apps with robust backends using Laravel, PHP, and MySQL for a complete ecosystem.",
+      "icon": "fas fa-network-wired"
+    },
+    {
+      "title": "App Architecture Consulting",
+      "description": "Design scalable, maintainable mobile architectures using Clean Architecture and MVVM.",
+      "icon": "fas fa-drafting-compass"
+    },
+    {
+      "title": "API Integration",
+      "description": "Seamless integration with REST APIs, Firebase, and third-party services.",
+      "icon": "fas fa-plug"
+    },
+    {
+      "title": "Code Review & Mentorship",
+      "description": "Improve code quality and mentor junior developers on best practices.",
+      "icon": "fas fa-user-graduate"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Damascus University",
+      "degree": "Bachelor of Science in Computer Science",
+      "years": "2016 - 2020",
+      "icon": "fas fa-graduation-cap",
+      "description": "Specialized in Software Engineering and Mobile Development"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Associate Android Developer",
+      "issuer": "Google",
+      "year": "2022",
+      "icon": "fab fa-google",
+      "credential": "https://developers.google.com/certification/associate-android-developer"
+    },
+    {
+      "name": "Flutter Development Bootcamp",
+      "issuer": "Udemy",
+      "year": "2021",
+      "icon": "fas fa-certificate"
+    },
+    {
+      "name": "Clean Architecture for Android",
+      "issuer": "Udemy",
+      "year": "2022",
+      "icon": "fas fa-certificate"
+    },
+    {
+      "name": "Kotlin for Android Developers",
+      "issuer": "JetBrains Academy",
+      "year": "2021",
+      "icon": "devicon-kotlin-plain"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ahmed Al-Hassan",
+      "role": "Technical Lead",
+      "company": "iSolution",
+      "text": "Mohammad consistently delivers high-quality code and has a deep understanding of mobile architecture. His expertise in Flutter and Clean Architecture has been invaluable to our team.",
+      "image": "https://ui-avatars.com/api/?name=Ahmed+Al-Hassan&background=667eea&color=fff"
+    },
+    {
+      "name": "Sara Khalil",
+      "role": "Product Manager",
+      "company": "Qareb",
+      "text": "Working with Mohammad was a great experience. He translated our complex requirements into a smooth, user-friendly app that our customers love. Highly recommended!",
+      "image": "https://ui-avatars.com/api/?name=Sara+Khalil&background=764ba2&color=fff"
+    },
+    {
+      "name": "Omar Nasser",
+      "role": "CEO",
+      "company": "Complex Fractal",
+      "text": "Mohammad's technical skills and professional approach made our project a success. He delivered on time and exceeded our expectations.",
+      "image": "https://ui-avatars.com/api/?name=Omar+Nasser&background=00D9FF&color=fff"
+    }
+  ]
+}
