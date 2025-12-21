@@ -57,14 +57,14 @@
           {
             "name": "Android",
             "class": "devicon-android-plain",
-            "level": "95",
-            "expertise": "Proficient"
+            "level": "70",
+            "expertise": "Advanced"
           },
           {
             "name": "Kotlin",
             "class": "devicon-kotlin-plain",
-            "level": "95",
-            "expertise": "Expert"
+            "level": "70",
+            "expertise": "Advanced"
           },
           {
             "name": "Java",
@@ -75,7 +75,7 @@
           {
             "name": "Jetpack Compose",
             "class": "devicon-android-plain",
-            "level": "85",
+            "level": "70",
             "expertise": "Advanced"
           }
         ]
@@ -91,7 +91,7 @@
             "expertise": "Expert"
           },
           {
-            "name": "MVVM",
+            "name": "Design Patterns",
             "class": "fas fa-cubes",
             "level": "90",
             "expertise": "Expert"
@@ -99,14 +99,14 @@
           {
             "name": "BLoC Pattern",
             "class": "devicon-flutter-plain",
-            "level": "85",
-            "expertise": "Advanced"
+            "level": "95",
+            "expertise": "Expert"
           },
           {
-            "name": "MVC",
+            "name": "MVVM| MVP| MVI| MVC",
             "class": "fas fa-project-diagram",
             "level": "85",
-            "expertise": "Advanced"
+            "expertise": "Expert"
           }
         ]
       },
@@ -179,6 +179,18 @@
             "class": "devicon-vscode-plain",
             "level": "85",
             "expertise": "Advanced"
+          },
+          {
+            "name": "Flutter DevTools",
+            "class": "devicon-flutter-plain",
+            "level": "90",
+            "expertise": "Advanced"
+          },
+          {
+            "name": "ClickUp",
+            "class": "fas fa-tasks",
+            "level": "85",
+            "expertise": "Advanced"
           }
         ]
       }
@@ -203,52 +215,66 @@
   },
   "services": [
     {
-      "title": "Native Android Development",
-      "description": "High-performance Android apps using Kotlin and Jetpack Compose with modern architecture patterns.",
-      "icon": "fab fa-android"
-    },
-    {
-      "title": "Cross-Platform Flutter Apps",
-      "description": "Beautiful, fast apps for iOS and Android from a single codebase.",
+      "title": "Cross-Platform Mobile Development (Flutter)",
+      "description": "Design and build scalable, production-ready iOS and Android apps using Flutter with clean architecture, smooth animations, and optimized performance.",
       "icon": "fas fa-mobile-alt"
     },
     {
-      "title": "Full-Stack Web Integration",
-      "description": "Integrating mobile apps with robust backends using Laravel, PHP, and MySQL for a complete ecosystem.",
-      "icon": "fas fa-network-wired"
+      "title": "Native Android Development",
+      "description": "Develop high-quality Android applications using Kotlin, Jetpack components, MVVM, and modern Android best practices.",
+      "icon": "fab fa-android"
     },
     {
-      "title": "App Architecture Consulting",
-      "description": "Design scalable, maintainable mobile architectures using Clean Architecture and MVVM.",
+      "title": "Backend Integration & APIs",
+      "description": "Build and integrate secure, reliable backends using Laravel, MySQL, RESTful APIs, authentication flows, and third-party services.",
+      "icon": "fas fa-server"
+    },
+    {
+      "title": "Mobile App Architecture & Optimization",
+      "description": "Architect and refactor mobile apps for scalability, maintainability, and performance using Clean Architecture, MVVM, and modular design.",
       "icon": "fas fa-drafting-compass"
     },
     {
-      "title": "API Integration",
-      "description": "Seamless integration with REST APIs, Firebase, and third-party services.",
-      "icon": "fas fa-plug"
+      "title": "CI/CD & App Delivery Automation",
+      "description": "Automate build, test, and deployment pipelines for Android and iOS using GitLab CI/CD, Fastlane, and multi-environment configurations.",
+      "icon": "fas fa-rocket"
     },
     {
-      "title": "Code Review & Mentorship",
-      "description": "Improve code quality and mentor junior developers on best practices.",
+      "title": "Code Review & Developer Mentorship",
+      "description": "Provide structured code reviews and mentorship for junior developers, focusing on clean code, architecture, and real-world mobile best practices.",
       "icon": "fas fa-user-graduate"
     }
   ],
   "education": [
     {
-      "institution": "Damascus University",
+      "institution": "Aleppo University",
       "degree": "Bachelor of Science in Computer Science",
-      "years": "2016 - 2020",
+      "years": "2018 - 2023",
       "icon": "fas fa-graduation-cap",
       "description": "Specialized in Software Engineering and Mobile Development"
     }
   ],
   "certificates": [
     {
-      "name": "Associate Android Developer",
+      "name": "Prompt Engineering",
+      "issuer": "LinkedIn Learning",
+      "year": "2025",
+      "icon": "fas fa-certificate",
+      "credential": "https://www.linkedin.com/learning/certificates/2ba7623e889edc0216feb0c67732d54cbcab2e7276840f44e4c70788d2859915?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BHAhXg%2BvdTMW%2BUpujDC8xbA%3D%3D"
+    },
+    {
+      "name": "Google Play Academy",
       "issuer": "Google",
-      "year": "2022",
+      "year": "2025",
       "icon": "fab fa-google",
-      "credential": "https://developers.google.com/certification/associate-android-developer"
+      "credential": "https://www.credential.net/fbb33063-30f5-45e9-9836-fa71ed66f6b4#acc.GrCPFTE5"
+    },
+    {
+      "name": "Meta Android Developer Specialization",
+      "issuer": "Meta",
+      "year": "2022",
+      "icon": "fas fa-certificate",
+      "credential": "https://www.coursera.org/account/accomplishments/specialization/certificate/FE944FBPJCH6"
     },
     {
       "name": "Flutter Development Bootcamp",
@@ -257,16 +283,18 @@
       "icon": "fas fa-certificate"
     },
     {
-      "name": "Clean Architecture for Android",
-      "issuer": "Udemy",
-      "year": "2022",
-      "icon": "fas fa-certificate"
+      "name": "Advanced Programming in Kotlin",
+      "issuer": "Coursera",
+      "year": "2023",
+      "icon": "fas fa-certificate",
+      "credential": "https://www.coursera.org/account/accomplishments/certificate/5KY233R3SDUR"
     },
     {
-      "name": "Kotlin for Android Developers",
-      "issuer": "JetBrains Academy",
-      "year": "2021",
-      "icon": "devicon-kotlin-plain"
+      "name": "Continuous Integration and Continuous Delivery (CI/CD)",
+      "issuer": "Coursera",
+      "year": "2023",
+      "icon": "fas fa-certificate",
+      "credential": "https://www.coursera.org/account/accomplishments/certificate/L9KJBTDGNFKR"
     }
   ],
   "testimonials": [

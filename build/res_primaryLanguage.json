@@ -17,7 +17,7 @@
     {
       "title": "OnTime",
       "startDate": "2025",
-      "role": "Lead Mobile Developer",
+      "role": "Full-Stack Mobile Developer",
       "featured": true,
       "description": "Led the development of an all-in-one HR management app serving enterprise clients. Implemented complex features including leave management, attendance tracking, expense reporting, and travel requests. Built with Clean Architecture, achieving 99.5% crash-free rate. Available on both iOS and Android.",
       "achievements": [
@@ -25,9 +25,7 @@
         "Integrated real-time sync with Laravel backend",
         "Delivered on schedule with zero critical bugs"
       ],
-      "images": [
-        "images/portfolio/ontime/logo.png"
-      ],
+      "images": ["images/portfolio/ontime/logo.png"],
       "play_url": "https://play.google.com/store/apps/details?id=com.isolutions.ontime.mobile_ontime",
       "apple_url": "https://apps.apple.com/us/app/isolutions-ontime/id6447630517",
       "technologies": [
@@ -56,9 +54,7 @@
         "Optimized app performance for low-end devices",
         "Expanding to GCC and MENA regions"
       ],
-      "images": [
-        "images/portfolio/qareb/logo.jpg"
-      ],
+      "images": ["images/portfolio/qareb/logo.jpg"],
       "play_url": "https://play.google.com/store/apps/details?id=com.thewebaddicts.qarebsa",
       "apple_url": "https://apps.apple.com/us/app/qareb/id1641705339",
       "technologies": [
@@ -79,6 +75,7 @@
     {
       "title": "Canary - Learn English",
       "startDate": "2022-2023",
+      "role": "Freelance Android Developer",
       "description": "🐤 Canary Learn English Language is an educational application for learning English in an engaging and interactive manner. With many features, including an extensive dictionary, Different Levels of Lessons, Interactive Exercises, Share Lessons with Friends, Save Lessons as PDF Files, Get tips, Study Offline, this application is an indispensable resource for English language learners, and the ability to create personalized PDFs. 📚💚",
       "images": [
         "images/portfolio/canary/logo.jpg",
@@ -105,7 +102,7 @@
     {
       "title": "Snakes and Ladders",
       "startDate": "2023",
-      "role": "Sole Developer",
+      "role": "Freelance Android Developer",
       "featured": true,
       "downloads": "20K+",
       "description": "🏆 Developed a viral classic board game with 20K+ downloads. Features real-time online multiplayer using Firebase, offline mode, and engaging animations. Built entirely in Kotlin with modern Android architecture.",
@@ -114,9 +111,7 @@
         "Implemented real-time multiplayer with Firebase",
         "4.5+ star rating on Play Store"
       ],
-      "images": [
-        "images/portfolio/snakesandladders/logo.png"
-      ],
+      "images": ["images/portfolio/snakesandladders/logo.png"],
       "url": "",
       "play_url": "https://play.google.com/store/apps/details?id=com.snakeandladder.game",
       "technologies": [
@@ -137,6 +132,7 @@
     {
       "title": "Scholar",
       "startDate": "2022-2023",
+      "role": "Freelance Android Developer",
       "description": "An all-inclusive digital school platform, spanning from primary to secondary education, offering educational videos, summaries, and student-authored motivation stories. It also empowers teachers to share their resources like textbooks, notes, and videos, while students can make affordable purchases via a virtual wallet replenished through minimal spending. Administrators continually enrich the platform with education-specific content. 💙",
       "images": [
         "images/portfolio/scholar/logo.png",
@@ -161,10 +157,9 @@
     {
       "title": "Complex Fractal",
       "startDate": "2022",
+      "role": "Flutter Developer",
       "description": "Developed a mobile app for Complex Fractal company, Complexfractal: Your financial markets companion. Unlock market complexities with fractal analysis through our mobile app. Leverage advanced algorithms and data tools to spot fractal patterns, predict price movements, and secure your trading success. Experience a user-friendly interface designed for all traders, from beginners to pros. Complexfractal: Your gateway to financial prosperity",
-      "images": [
-        "images/portfolio/complex/logo.jpg"
-      ],
+      "images": ["images/portfolio/complex/logo.jpg"],
       "url": "",
       "play_url": "https://play.google.com/store/apps/details?id=com.complex.fractal",
       "technologies": [
@@ -185,10 +180,9 @@
     {
       "title": "Sheikh Al-Souq",
       "startDate": "2022",
+      "role": "Android Developer (Java)",
       "description": "During my position at Kerosene Tech, I played a pivotal role in the development of the main project, the 'Sheikh Al-Souq' multi-vendor marketplace app, a dynamic app brought to life by Kerosene Tech. This innovative platform redefines how businesses connect with customers. It allows you to showcase your name, number, and address and craft a personalized business gallery, all while retaining control over your content and the app's appearance. But that's just the beginning – Sheikh Al-Souq, developed by Kerosene Tech, offers a complete electronic market with an affordable annual subscription, revolutionizing your online presence. Communication, shopping, and news sharing become effortless. Embrace cutting-edge technology to reshape your business.",
-      "images": [
-        "images/portfolio/SheikhAlSouq/logo.jpg"
-      ],
+      "images": ["images/portfolio/SheikhAlSouq/logo.jpg"],
       "url": "",
       "play_url": "https://play.google.com/store/apps/details?id=com.ramikabbani.sheikhssouk",
       "technologies": [
@@ -209,10 +203,9 @@
     {
       "title": "Smart ADs",
       "startDate": "2022",
+      "role": "Flutter Developer",
       "description": "Developed an advertising app streamlining billboard and social media promotions for user-defined advertising campaigns. :)",
-      "images": [
-        "images/portfolio/smartads/logo.png"
-      ],
+      "images": ["images/portfolio/smartads/logo.png"],
       "url": "https://github.com/mohamedshasho/Advertisement_Services_App",
       "technologies": [
         {
@@ -236,6 +229,7 @@
     {
       "title": "Tasawq - Ecommerce App",
       "startDate": "2021",
+      "role": "Flutter Developer",
       "description": "🌇 Multi-vendor shopping app that enables user login to access product listings and nearby stores for various features, including product ratings, following stores, messaging, and more. The app empowers store owners to efficiently manage their product listings, oversee followers, monitor reviews, and facilitate real-time messaging. Additionally, it incorporates a map feature and supports notification sending. 🌐🗺",
       "images": [
         "images/portfolio/tasawq/logo.png",
@@ -265,6 +259,7 @@
     {
       "title": "The Health App",
       "startDate": "2020",
+      "role": "Flutter Developer",
       "description": "🍕 This application suggests the best food for your body condition, along with your body condition index and recommendations for actions. It provides healthy food options, their ingredients, and preparation methods. It also covers various types of general sports, their benefits, and drawbacks. 🤸‍♂️",
       "images": [
         "images/portfolio/theHealth/logo.jpg",
@@ -287,53 +282,43 @@
   "experience": [
     {
       "company": "iSolution",
-      "title": "Senior Mobile Developer",
+      "title": "Full-Stack Mobile Developer",
       "years": "01.2024 - present",
-      "description": "Leading mobile development for enterprise HR and marketplace applications. Architecting scalable Flutter solutions and mentoring junior developers.",
+      "description": "Building and maintaining scalable cross-platform mobile applications with a strong focus on performance, security, and delivery automation.",
       "responsibilities": [
         "Develop and maintain Flutter mobile applications",
         "Design clean, scalable mobile architecture",
         "Integrate and align mobile features with backend APIs",
         "Automate builds and releases using CI/CD pipelines"
       ],
-      "mainTech": [
-        "Flutter",
-        "Clean Architecture",
-        "Leadership"
-      ],
+      "mainTech": ["Flutter", "Laravel", "Google Cloud"],
       "technologies": [
         "Dart",
         "PHP",
         "BLoC",
-        "GetX",
         "MySQL",
         "REST APIs",
         "Clean Architecture",
         "Git",
-        "Google Cloud",
+        "Mobile Security",
         "Agile",
         "CI/CD"
       ]
     },
     {
       "company": "Freelance",
-      "title": "Android Developer",
+      "title": "Mobile Developer",
       "years": "08.2022 - 01.2024",
-      "description": "Built and published multiple Android applications with 20K+ combined downloads. Specialized in Kotlin, Jetpack Compose, and modern Android architecture.",
+      "description": "Delivered end-to-end Android applications using modern Android tooling and architecture for multiple clients.",
       "responsibilities": [
-        "Developed production apps from concept to Play Store",
-        "Implemented complex features like multiplayer gaming",
-        "Integrated Firebase for real-time functionality",
-        "Optimized performance for diverse device range"
+        "Build Android apps from requirements to release",
+        "Apply MVVM and clean architecture patterns",
+        "Integrate Firebase and third-party services",
+        "Optimize performance and app stability"
       ],
-      "mainTech": [
-        "Kotlin",
-        "Jetpack Compose",
-        "MVVM"
-      ],
+      "mainTech": ["Kotlin", "Jetpack Compose", "Flutter"],
       "technologies": [
         "Android",
-        "Kotlin",
         "Java",
         "Jetpack Compose",
         "Clean Architecture",
@@ -352,28 +337,23 @@
       "company": "Kerosene Tech",
       "title": "Android Developer",
       "years": "03.2022 - 09.2022",
-      "description": "Core team member for multi-vendor marketplace platform. Implemented key features and maintained codebase following Clean Architecture principles.",
+      "description": "Worked on a multi-vendor marketplace application, contributing to feature development and codebase optimization.",
       "responsibilities": [
-        "Developed core features for Sheikh Al-Souq marketplace",
-        "Refactored legacy code to Clean Architecture",
-        "Implemented RxJava for reactive data streams",
-        "Collaborated in Agile development environment"
+        "Implement core marketplace features",
+        "Refactor and optimize existing code",
+        "Consume REST APIs and manage local storage",
+        "Collaborate with team in Agile sprints"
       ],
-      "mainTech": [
-        "Android",
-        "Java",
-        "RxJava"
-      ],
+      "mainTech": ["Android", "Java", "MVVM"],
       "technologies": [
         "Android",
         "Java",
-        "RxJava",
-        "Clean Architecture",
         "MVVM",
-        "Dagger",
+        "Clean Architecture",
         "Room",
-        "REST APIs",
         "Retrofit2",
+        "REST APIs",
+        "Dependency Injection",
         "Git"
       ]
     },
@@ -381,30 +361,25 @@
       "company": "Freelance",
       "title": "Mobile Developer",
       "years": "01.2020 - 01.2022",
-      "description": "Began professional mobile development journey building Flutter and Android applications for diverse clients. Established foundation in mobile development best practices.",
+      "description": "Developed early-stage Flutter and Android applications for clients across e-commerce and education domains.",
       "responsibilities": [
-        "Built custom mobile apps for various industries",
-        "Integrated third-party APIs and services",
-        "Deployed apps to Google Play Store",
-        "Managed client relationships and project timelines"
+        "Build cross-platform and Android mobile apps",
+        "Integrate APIs, Firebase, and push notifications",
+        "Prepare and publish apps to app stores",
+        "Communicate directly with clients on requirements"
       ],
-      "mainTech": [
-        "Flutter",
-        "Android",
-        "Dart"
-      ],
+      "mainTech": ["Flutter", "Android", "Dart"],
       "technologies": [
         "Flutter",
         "Android",
         "Dart",
-        "State Management",
-        "SQL",
         "Firebase",
         "REST APIs",
-        "Git",
+        "State Management",
+        "SQLite",
         "Push Notifications",
-        "Real-time",
-        "Google Maps"
+        "Google Maps",
+        "Git"
       ]
     }
   ]
