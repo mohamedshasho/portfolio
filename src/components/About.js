@@ -173,7 +173,7 @@ class About extends Component {
                       gap: '0.8rem',
                       justifyContent: check ? 'flex-end' : 'flex-start'
                     }}>
-                      {['Android', 'Flutter', 'iOS', 'Kotlin', 'Clean Architecture'].map((tech, i) => (
+                      {['Flutter', 'Android', 'iOS', 'Kotlin', 'Clean Architecture'].map((tech, i) => (
                         <span 
                           key={i}
                           style={{
