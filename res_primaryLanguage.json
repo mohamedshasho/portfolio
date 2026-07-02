@@ -1,0 +1,493 @@
+{
+  "basic_info": {
+    "description_header": "Hi, I'm Mohammad",
+    "description": "🚀 Senior Mobile Developer with 5+ years of experience shipping high-quality Android & Flutter applications. Successfully delivered 10+ production apps with 50K+ combined downloads. Expert in Clean Architecture, cross-platform development, and leading mobile initiatives from concept to deployment. Passionate about creating elegant, performant mobile experiences that users love. Let's build something amazing together! 💚",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "services": "Services",
+      "testimonials": "Testimonials",
+      "contact": "Get In Touch",
+      "education": "Education & Certifications"
+    }
+  },
+  "projects": [
+    {
+      "title": "OctoPharam",
+      "startDate": "2026",
+      "role": "Android Developer",
+      "featured": true,
+      "description": " Consolidated multiple client repositories into a single, unified product CRM used by several medical companies. Rebuilt architecture with DI, Room (cache-first Flow), and parallel APIs, resolving memory leaks and boosting speed by 80%.",
+      "achievements": [
+        "Merged multiple client repositories into a single, scalable product CRM",
+        "Boosted application speed by 80% and resolved critical memory leaks",
+        "Implemented a cache-first offline architecture using Room and Dependency Injection",
+        "Integrated parallel APIs to optimize data loading and synchronization"
+      ],
+      "images": [
+        "images/portfolio/octoPharma/logo.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-kotlin-plain colored",
+          "name": "Kotlin"
+        }
+      ]
+    },
+    {
+      "title": "Forsa Barter",
+      "startDate": "2025",
+      "role": "Android Developer",
+      "featured": true,
+      "description": "Developed core features for an innovative online trading marketplace.",
+      "achievements": [
+        "Developed and maintained core marketplace trading functionalities",
+        "Implemented robust user-to-user bartering connections and workflows",
+        "Optimized Java codebase for better application stability and performance"
+      ],
+      "images": [
+        "images/portfolio/forsa/logo.png"
+      ],
+      "play_url": "https://play.google.com/store/apps/details?id=com.bartering.forsa",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-java-plain colored",
+          "name": "Java"
+        }
+      ]
+    },
+    {
+      "title": "OnTime",
+      "startDate": "2025",
+      "role": "Full-Stack Mobile Developer",
+      "featured": true,
+      "description": "Led the development of an all-in-one HR management app serving enterprise clients. Implemented complex features including leave management, attendance tracking, expense reporting, and travel requests. Built with Clean Architecture, achieving 99.5% crash-free rate. Available on both iOS and Android.",
+      "achievements": [
+        "Architected scalable Flutter codebase using BLoC pattern",
+        "Integrated real-time sync with Laravel backend",
+        "Delivered on schedule with zero critical bugs"
+      ],
+      "images": [
+        "images/portfolio/ontime/logo.png"
+      ],
+      "play_url": "https://play.google.com/store/apps/details?id=com.isolutions.ontime.mobile_ontime",
+      "apple_url": "https://apps.apple.com/us/app/isolutions-ontime/id6447630517",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-googlecloud-plain colored",
+          "name": "Google Cloud"
+        }
+      ]
+    },
+    {
+      "title": "Qareb",
+      "startDate": "2024-2025",
+      "role": "Mobile Developer",
+      "featured": true,
+      "description": "Developed a marketplace app serving the fishing community across Saudi Arabia and GCC region. Implemented complex e-commerce features including product listings, real-time chat, and payment integration. Built with Flutter for cross-platform deployment.",
+      "achievements": [
+        "Implemented real-time messaging system",
+        "Optimized app performance for low-end devices",
+        "Expanding to GCC and MENA regions"
+      ],
+      "images": [
+        "images/portfolio/qareb/logo.jpg"
+      ],
+      "play_url": "https://play.google.com/store/apps/details?id=com.thewebaddicts.qarebsa",
+      "apple_url": "https://apps.apple.com/us/app/qareb/id1641705339",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-googlecloud-plain colored",
+          "name": "Google Cloud"
+        }
+      ]
+    },
+    {
+      "title": "Canary - Learn English",
+      "startDate": "2022-2023",
+      "role": "Freelance Android Developer",
+      "description": "🐤 Canary Learn English Language is an educational application for learning English in an engaging and interactive manner. With many features, including an extensive dictionary, Different Levels of Lessons, Interactive Exercises, Share Lessons with Friends, Save Lessons as PDF Files, Get tips, Study Offline, this application is an indispensable resource for English language learners, and the ability to create personalized PDFs. 📚💚",
+      "images": [
+        "images/portfolio/canary/logo.jpg",
+        "images/portfolio/canary/promo.mp4",
+        "images/portfolio/canary/promo2.mp4"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.canary.learnenglish",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-kotlin-plain colored",
+          "name": "Kotlin"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        }
+      ]
+    },
+    {
+      "title": "Snakes and Ladders",
+      "startDate": "2023",
+      "role": "Freelance Android Developer",
+      "featured": true,
+      "downloads": "20K+",
+      "description": "🏆 Developed a viral classic board game with 20K+ downloads. Features real-time online multiplayer using Firebase, offline mode, and engaging animations. Built entirely in Kotlin with modern Android architecture.",
+      "achievements": [
+        "Achieved 20K+ organic downloads",
+        "Implemented real-time multiplayer with Firebase",
+        "4.5+ star rating on Play Store"
+      ],
+      "images": [
+        "images/portfolio/snakesandladders/logo.png"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.snakeandladder.game",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-kotlin-plain colored",
+          "name": "Kotlin"
+        },
+        {
+          "class": "devicon-sqlite-plain-wordmark colored",
+          "name": "Room"
+        }
+      ]
+    },
+    {
+      "title": "Scholar",
+      "startDate": "2022-2023",
+      "role": "Freelance Android Developer",
+      "description": "An all-inclusive digital school platform, spanning from primary to secondary education, offering educational videos, summaries, and student-authored motivation stories. It also empowers teachers to share their resources like textbooks, notes, and videos, while students can make affordable purchases via a virtual wallet replenished through minimal spending. Administrators continually enrich the platform with education-specific content. 💙",
+      "images": [
+        "images/portfolio/scholar/logo.png",
+        "images/portfolio/scholar/promo.mp4"
+      ],
+      "url": "https://github.com/mohamedshasho/Scholar",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-kotlin-plain colored",
+          "name": "Kotlin"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        }
+      ]
+    },
+    {
+      "title": "Complex Fractal",
+      "startDate": "2022",
+      "role": "Flutter Developer",
+      "description": "Developed a mobile app for Complex Fractal company, Complexfractal: Your financial markets companion. Unlock market complexities with fractal analysis through our mobile app. Leverage advanced algorithms and data tools to spot fractal patterns, predict price movements, and secure your trading success. Experience a user-friendly interface designed for all traders, from beginners to pros. Complexfractal: Your gateway to financial prosperity",
+      "images": [
+        "images/portfolio/complex/logo.jpg"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.complex.fractal",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-firebase-plain colored",
+          "name": "Firebase"
+        }
+      ]
+    },
+    {
+      "title": "Sheikh Al-Souq",
+      "startDate": "2022",
+      "role": "Android Developer (Java)",
+      "description": "During my position at Kerosene Tech, I played a pivotal role in the development of the main project, the 'Sheikh Al-Souq' multi-vendor marketplace app, a dynamic app brought to life by Kerosene Tech. This innovative platform redefines how businesses connect with customers. It allows you to showcase your name, number, and address and craft a personalized business gallery, all while retaining control over your content and the app's appearance. But that's just the beginning – Sheikh Al-Souq, developed by Kerosene Tech, offers a complete electronic market with an affordable annual subscription, revolutionizing your online presence. Communication, shopping, and news sharing become effortless. Embrace cutting-edge technology to reshape your business.",
+      "images": [
+        "images/portfolio/SheikhAlSouq/logo.jpg"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.ramikabbani.sheikhssouk",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-java-plain colored",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-sqlite-plain-wordmark colored",
+          "name": "SQLite"
+        }
+      ]
+    },
+    {
+      "title": "Smart ADs",
+      "startDate": "2022",
+      "role": "Flutter Developer",
+      "description": "Developed an advertising app streamlining billboard and social media promotions for user-defined advertising campaigns. :)",
+      "images": [
+        "images/portfolio/smartads/logo.png"
+      ],
+      "url": "https://github.com/mohamedshasho/Advertisement_Services_App",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-php-plain colored",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        }
+      ]
+    },
+    {
+      "title": "Tasawq - Ecommerce App",
+      "startDate": "2021",
+      "role": "Flutter Developer",
+      "description": "🌇 Multi-vendor shopping app that enables user login to access product listings and nearby stores for various features, including product ratings, following stores, messaging, and more. The app empowers store owners to efficiently manage their product listings, oversee followers, monitor reviews, and facilitate real-time messaging. Additionally, it incorporates a map feature and supports notification sending. 🌐🗺",
+      "images": [
+        "images/portfolio/tasawq/logo.png",
+        "images/portfolio/tasawq/promo.mp4"
+      ],
+      "url": "https://github.com/mohamedshasho/E-commerce-App-Flutter-and-PHP",
+      "play_url": "https://play.google.com/store/apps/details?id=com.tasawqgo.net",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-firebase-plain colored",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-googlecloud-plain colored",
+          "name": "Google"
+        }
+      ]
+    },
+    {
+      "title": "The Health App",
+      "startDate": "2020",
+      "role": "Flutter Developer",
+      "description": "🍕 This application suggests the best food for your body condition, along with your body condition index and recommendations for actions. It provides healthy food options, their ingredients, and preparation methods. It also covers various types of general sports, their benefits, and drawbacks. 🤸‍♂️",
+      "images": [
+        "images/portfolio/theHealth/logo.jpg",
+        "images/portfolio/theHealth/theHealth.mp4"
+      ],
+      "url": "https://github.com/mohamedshasho/The-Health-App",
+      "play_url": "",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Beetronix",
+      "title": "Mobile App Developer",
+      "years": "02.2026 - Present",
+      "description": "Developing and maintaining native Android applications with a strong emphasis on clean architecture, performance optimization, and scalable solutions.",
+      "responsibilities": [
+        "Developing production-ready native Android applications using Kotlin and Java",
+        "Designing and implementing scalable architectures using MVVM and Clean Architecture",
+        "Integrating complex backend services using REST APIs and Retrofit2",
+        "Ensuring code quality and streamlining deployments via Dependency Injection and CI/CD automation"
+      ],
+      "mainTech": [
+        "Android"
+      ],
+      "technologies": [
+        "Android",
+        "Kotlin",
+        "Java",
+        "MVVM",
+        "Clean Architecture",
+        "Room",
+        "Retrofit2",
+        "REST APIs",
+        "Dependency Injection",
+        "Git"
+      ]
+    },
+    {
+      "company": "iSolution",
+      "title": "Full-Stack Mobile Developer",
+      "years": "01.2024 - present",
+      "description": "Building and maintaining scalable cross-platform mobile applications with a strong focus on performance, security, and delivery automation.",
+      "responsibilities": [
+        "Develop and maintain Flutter mobile applications",
+        "Design clean, scalable mobile architecture",
+        "Integrate and align mobile features with backend APIs",
+        "Automate builds and releases using CI/CD pipelines"
+      ],
+      "mainTech": [
+        "Flutter",
+        "Laravel",
+        "Google Cloud"
+      ],
+      "technologies": [
+        "Dart",
+        "PHP",
+        "BLoC",
+        "MySQL",
+        "REST APIs",
+        "Clean Architecture",
+        "Git",
+        "Mobile Security",
+        "Agile",
+        "CI/CD"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "title": "Mobile Developer",
+      "years": "08.2022 - 01.2024",
+      "description": "Delivered end-to-end Android applications using modern Android tooling and architecture for multiple clients.",
+      "responsibilities": [
+        "Build Android apps from requirements to release",
+        "Apply MVVM and clean architecture patterns",
+        "Integrate Firebase and third-party services",
+        "Optimize performance and app stability"
+      ],
+      "mainTech": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Flutter"
+      ],
+      "technologies": [
+        "Android",
+        "Java",
+        "Jetpack Compose",
+        "Clean Architecture",
+        "MVVM",
+        "Hilt",
+        "Coroutines",
+        "Flow",
+        "Room",
+        "Firebase",
+        "REST APIs",
+        "Deep Link",
+        "Git"
+      ]
+    },
+    {
+      "company": "Kerosene Tech",
+      "title": "Android Developer",
+      "years": "03.2022 - 09.2022",
+      "description": "Worked on a multi-vendor marketplace application, contributing to feature development and codebase optimization.",
+      "responsibilities": [
+        "Implement core marketplace features",
+        "Refactor and optimize existing code",
+        "Consume REST APIs and manage local storage",
+        "Collaborate with team in Agile sprints"
+      ],
+      "mainTech": [
+        "Android",
+        "Java",
+        "MVVM"
+      ],
+      "technologies": [
+        "Android",
+        "Java",
+        "MVVM",
+        "Clean Architecture",
+        "Room",
+        "Retrofit2",
+        "REST APIs",
+        "Dependency Injection",
+        "Git"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "title": "Mobile Developer",
+      "years": "01.2020 - 01.2022",
+      "description": "Developed early-stage Flutter and Android applications for clients across e-commerce and education domains.",
+      "responsibilities": [
+        "Build cross-platform and Android mobile apps",
+        "Integrate APIs, Firebase, and push notifications",
+        "Prepare and publish apps to app stores",
+        "Communicate directly with clients on requirements"
+      ],
+      "mainTech": [
+        "Flutter",
+        "Android",
+        "Dart"
+      ],
+      "technologies": [
+        "Flutter",
+        "Android",
+        "Dart",
+        "Firebase",
+        "REST APIs",
+        "State Management",
+        "SQLite",
+        "Push Notifications",
+        "Google Maps",
+        "Git"
+      ]
+    }
+  ]
+}

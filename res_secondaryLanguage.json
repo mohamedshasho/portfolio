@@ -1,0 +1,465 @@
+{
+  "basic_info": {
+    "description_header": "مرحباً، أنا محمد",
+    "description": "🚀 مطور تطبيقات جوال أول بخبرة تفوق 5 سنوات في تطوير تطبيقات أندرويد وفلاتر عالية الجودة. نجحت في تسليم أكثر من 10 تطبيقات إنتاجية بأكثر من 50 ألف تحميل مجموعة. خبير في الهندسة النظيفة (Clean Architecture) وتطوير التطبيقات متعددة المنصات وقيادة مشاريع الجوال من الفكرة إلى الإطلاق. شغوف بإنشاء تجارب جوال أنيقة وعالية الأداء يحبها المستخدمين. لنبني شيئاً رائعاً معاً! 💚",
+    "section_name": {
+      "about": "عنّي",
+      "projects": "المشاريع",
+      "skills": "المهارات",
+      "experience": "الخبرة",
+      "services": "الخدمات",
+      "testimonials": "التوصيات",
+      "contact": "تواصل معي",
+      "education": "التعليم والشهادات"
+    }
+  },
+  "projects": [
+    {
+      "title": "OctoPharma",
+      "startDate": "2026",
+      "role": "Android Developer",
+      "featured": true,
+      "description": "دمج مستودعات عملاء متعددة في منتج CRM واحد وموحد تستخدمه عدة شركات طبية. إعادة بناء الهيكلية باستخدام DI، و Room (تدفق البيانات المخزنة مؤقتاً أولاً)، وواجهات برمجة التطبيقات المتوازية، مما أدى إلى حل مشاكل تسرب الذاكرة وزيادة السرعة بنسبة 80٪.",
+      "achievements": [
+        "Merged multiple client repositories into a single, scalable product CRM",
+        "Boosted application speed by 80% and resolved critical memory leaks",
+        "Implemented a cache-first offline architecture using Room and Dependency Injection",
+        "Integrated parallel APIs to optimize data loading and synchronization"
+      ],
+      "images": [
+        "images/portfolio/octoPharma/logo.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-kotlin-plain colored",
+          "name": "Kotlin"
+        }
+      ]
+    },
+    {
+      "title": "Forsa Barter",
+      "startDate": "2025",
+      "role": "Android Developer",
+      "featured": true,
+      "description": "تطوير الميزات الأساسية لمنصة تداول مبتكرة عبر الإنترنت.",
+      "achievements": [
+        "Developed and maintained core marketplace trading functionalities",
+        "Implemented robust user-to-user bartering connections and workflows",
+        "Optimized Java codebase for better application stability and performance"
+      ],
+      "images": [
+        "images/portfolio/forsa/logo.png"
+      ],
+      "play_url": "https://play.google.com/store/apps/details?id=com.bartering.forsa",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-java-plain colored",
+          "name": "Java"
+        }
+      ]
+    },
+    {
+      "title": "OnTime",
+      "startDate": "2025",
+      "description": "أون تايم هو تطبيق متكامل لإدارة الموارد البشرية، يسهّل إدارة الإجازات، الحضور، المصروفات، طلبات السفر وكشوف الرواتب في مكان واحد. يساعد الموظفين على البقاء منظمين، ويتيح للمديرين التعامل مع الموافقات بسرعة، ليبقى كل شيء واضحًا وبسيطًا وفي الوقت المناسب. - في iSolution",
+      "images": [
+        "images/portfolio/ontime/logo.png"
+      ],
+      "play_url": "https://play.google.com/store/apps/details?id=com.isolutions.ontime.mobile_ontime",
+      "apple_url": "https://apps.apple.com/us/app/isolutions-ontime/id6447630517",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-googlecloud-plain colored",
+          "name": "Google Cloud"
+        }
+      ]
+    },
+    {
+      "title": "Qareb",
+      "startDate": "2024-2025",
+      "description": "قارب سوق الكتروني مخصص لمساعدة مجتمع الصيادين في المملكة العربية السعودية مع التوسع الحالي في منطقة الخليج العربي لأغلبية الشرق الأوسط وأغلبهم. - في iSolution",
+      "images": [
+        "images/portfolio/qareb/logo.jpg"
+      ],
+      "play_url": "https://play.google.com/store/apps/details?id=com.thewebaddicts.qarebsa",
+      "apple_url": "https://apps.apple.com/us/app/qareb/id1641705339",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-googlecloud-plain colored",
+          "name": "Google Cloud"
+        }
+      ]
+    },
+    {
+      "title": "كناري - تعلم الإنجليزية",
+      "startDate": "2022-2023",
+      "description": "🐤 تطبيق Canary لتعلم اللغة الإنجليزية هو تطبيق تعليمي يسمح بتعلم الإنجليزية بطريقة مشوقة وتفاعلية. يحتوي على العديد من الميزات، بما في ذلك قاموس شامل، دروس متعددة المستويات، تمارين تفاعلية، مشاركة الدروس مع الأصدقاء، حفظ الدروس كملفات PDF، نصائح، الدراسة بدون اتصال. يعد هذا التطبيق مصدرًا لا غنى عنه لمتعلمي اللغة الإنجليزية، بالإضافة إلى القدرة على إنشاء ملفات PDF شخصية. 📚💚",
+      "images": [
+        "images/portfolio/canary/logo.jpg",
+        "images/portfolio/canary/promo.mp4",
+        "images/portfolio/canary/promo2.mp4"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.canary.learnenglish",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "الأندرويد"
+        },
+        {
+          "class": "devicon-kotlin-plain colored",
+          "name": "كوتلين"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "لارافيل"
+        }
+      ]
+    },
+    {
+      "title": "لعبة السلم والأفاعي",
+      "startDate": "2023",
+      "description": "🏆 لعبة اللوحة الكلاسيكية المشهورة والممتعة التي حققت أكثر من 40,000 تنزيل. تقدم للمستخدمين الفرصة المثيرة للعب اللعبة عبر الإنترنت مع إمكانية اللعب مع لاعبين آخرين أو دون اتصال بالإنترنت. 🎲",
+      "images": [
+        "images/portfolio/snakesandladders/logo.png"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.snakeandladder.game",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "الأندرويد"
+        },
+        {
+          "class": "devicon-kotlin-plain colored",
+          "name": "كوتلين"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "لارافيل"
+        },
+        {
+          "class": "devicon-sqlite-plain-wordmark colored",
+          "name": "قواعد البيانات"
+        }
+      ]
+    },
+    {
+      "title": "Scholar",
+      "startDate": "2022-2023",
+      "description": "منصة مدرسية شاملة تغطي التعليم الابتدائي والثانوي، حيث يتم تقديم مقاطع فيديو تعليمية وملخصات وقصص تحفيزية من صنع الطلاب. بالإضافة إلى تمكين المعلمين من مشاركة مصادرهم مثل الكتب والملاحظات ومقاطع الفيديو، بينما يمكن للطلاب شراء المواد بأسعار معقولة من خلال محفظة افتراضية تم تمويلها بمبالغ بسيطة. يقوم المشرفون بشكل مستمر بتحسين المنصة من خلال إضافة محتوى خاص بالتعليم. 💙",
+      "images": [
+        "images/portfolio/scholar/logo.png",
+        "images/portfolio/scholar/promo.mp4"
+      ],
+      "url": "https://github.com/mohamedshasho/Scholar",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "الأندرويد"
+        },
+        {
+          "class": "devicon-kotlin-plain colored",
+          "name": "كوتلين"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "لارافيل"
+        }
+      ]
+    },
+    {
+      "title": "Complex Fractal",
+      "startDate": "2022",
+      "description": " تطوير تطبيق محمول لشركة Complex Fractal . Complex Fractal: رفيقك في الأسواق المالية. اكتشف تعقيدات الأسواق بتحليل البنية التكرارية من خلال تطبيقنا المحمول. استفد من خوارزميات متقدمة وأدوات تحليل البيانات لاكتشاف نماذج البنية التكرارية والتنبؤ بحركة الأسعار وضمان نجاح تداولك. تجربة واجهة سهلة الاستخدام مصممة لجميع التجار، من المبتدئين إلى المحترفين. Complex Fractal: بوابتك إلى الرخاء المالي",
+      "images": [
+        "images/portfolio/complex/logo.jpg"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.complex.fractal",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "دارت"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "فلاتر"
+        },
+        {
+          "class": "devicon-firebase-plain colored",
+          "name": "فايربيس"
+        }
+      ]
+    },
+    {
+      "title": "شيخ السوق",
+      "startDate": "2022",
+      "description": "خلال وظيفتي في شركة الكيروسين تكنولوجي، لعبت دورًا حاسمًا في تطوير المشروع الرئيسي، تطبيق سوق الشيخ الكبير للبائعين المتعددين، تطبيق دينامي قدمته شركة الكيروسين تكنولوجي. هذه المنصة المبتكرة تعيد تعريف كيفية تواصل الشركات مع عملائها. إنها تسمح لك بعرض اسمك ورقم هاتفك وعنوانك وإنشاء معرض أعمال مخصص، وذلك مع الحفاظ على السيطرة على محتواك ومظهر التطبيق. لكن هذا ليس كل شيء – تطبيق سوق الشيخ الكبير، الذي طورته شركة الكيروسين تكنولوجي، يقدم سوقًا إلكترونيًا كاملاً باشتراك سنوي معقول، مما يحدث ثورة في الوجود عبر الإنترنت. يصبح التواصل والتسوق ومشاركة الأخبار أمورًا سهلة. اعتنق التكنولوجيا المتطورة لإعادة تشكيل عملك.",
+      "images": [
+        "images/portfolio/SheikhAlSouq/logo.jpg"
+      ],
+      "url": "",
+      "play_url": "https://play.google.com/store/apps/details?id=com.ramikabbani.sheikhssouk",
+      "technologies": [
+        {
+          "class": "devicon-android-plain colored",
+          "name": "الأندرويد"
+        },
+        {
+          "class": "devicon-java-plain colored",
+          "name": "الجافا"
+        },
+        {
+          "class": "devicon-sqlite-plain-wordmark colored",
+          "name": "SQLite"
+        }
+      ]
+    },
+    {
+      "title": "إعلانات ذكية",
+      "startDate": "2022",
+      "description": "قمت بتطوير تطبيق إعلاني يبسط عمليات الإعلان على اللوحات الإعلانية ووسائل التواصل الاجتماعي لحملات الإعلان المحددة من قبل المستخدم. :)",
+      "images": [
+        "images/portfolio/smartads/logo.png"
+      ],
+      "url": "https://github.com/mohamedshasho/Advertisement_Services_App",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "دارت"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "فلاتر"
+        },
+        {
+          "class": "devicon-php-plain colored",
+          "name": "بي إتش بي"
+        },
+        {
+          "class": "devicon-laravel-plain colored",
+          "name": "لارافيل"
+        }
+      ]
+    },
+    {
+      "title": "تسوق - تطبيق التجارة الإلكترونية",
+      "startDate": "2021",
+      "description": "🌇 تطبيق تسوق متعدد البائعين يتيح للمستخدم تسجيل الدخول للوصول إلى قوائم المنتجات والمتاجر القريبة مع ميزات متعددة، بما في ذلك تقييم المنتجات ومتابعة المتاجر والرسائل وأكثر. يمكن لأصحاب المتاجر إدارة منتجاتهم بكفاءة، ومراقبة المتابعين، ومراجعة التقييمات، وتيسير التواصل في الوقت الفعلي. بالإضافة إلى ذلك، يضم ميزة الخريطة ويدعم إرسال الإشعارات. 🌐🗺",
+      "images": [
+        "images/portfolio/tasawq/logo.png",
+        "images/portfolio/tasawq/promo.mp4"
+      ],
+      "url": "https://github.com/mohamedshasho/E-commerce-App-Flutter-and-PHP",
+      "play_url": "https://play.google.com/store/apps/details?id=com.tasawqgo.net",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "دارت"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "فلاتر"
+        },
+        {
+          "class": "devicon-firebase-plain colored",
+          "name": "فايربيس"
+        },
+        {
+          "class": "devicon-googlecloud-plain colored",
+          "name": "جوجل"
+        }
+      ]
+    },
+    {
+      "title": "تطبيق الصحة",
+      "startDate": "2020",
+      "description": "🍕 هذا التطبيق يقترح أفضل أنواع الطعام لحالتك البدنية، بالإضافة إلى مؤشر حالتك البدنية واقتراحات للإجراءات. يقدم خيارات طعام صحي مع مكوناته وطرق تحضيره. ويغطي أيضًا مختلف أنواع الرياضات العامة، مزاياها وعيوبها. 🤸‍♂️",
+      "images": [
+        "images/portfolio/theHealth/logo.jpg",
+        "images/portfolio/theHealth/theHealth.mp4"
+      ],
+      "url": "https://github.com/mohamedshasho/The-Health-App",
+      "play_url": "",
+      "technologies": [
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "دارت"
+        },
+        {
+          "class": "devicon-flutter-plain colored",
+          "name": "فلاتر"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Beetronix",
+      "title": "Mobile App Developer",
+      "years": "02.2026 - الوقت الحالي",
+      "description": "تطوير وصيانة تطبيقات أندرويد أصلية مع التركيز القوي على البنية النظيفة، تحسين الأداء، والحلول القابلة للتوسع.",
+      "responsibilities": [
+        "تطوير تطبيقات أندرويد أصلية جاهزة للإنتاج باستخدام Kotlin و Java",
+        "تصميم وبناء هيكلية التطبيقات باستخدام Clean Architecture و MVVM",
+        "ربط الميزات والخدمات المعقدة مع واجهات برمجة التطبيقات (REST APIs)",
+        "ضمان جودة الكود وأتمتة عمليات النشر باستخدام CI/CD و Dependency Injection"
+      ],
+      "mainTech": [
+        "Android"
+      ],
+      "technologies": [
+        "Android",
+        "Kotlin",
+        "Java",
+        "MVVM",
+        "Clean Architecture",
+        "Room",
+        "Retrofit2",
+        "REST APIs",
+        "Dependency Injection",
+        "Git"
+      ]
+    },
+    {
+      "company": "iSolution",
+      "title": "Full-Stack Mobile Developer",
+      "years": "01.2024 - الوقت الحالي",
+      "description": "تطوير وصيانة تطبيقات موبايل متعددة المنصات مع التركيز على الأداء، الأمان، وسهولة التوسع.",
+      "responsibilities": [
+        "تطوير تطبيقات Flutter جاهزة للإنتاج",
+        "تصميم بنية نظيفة وقابلة للتوسع للتطبيقات",
+        "ربط الميزات مع واجهات برمجية خلفية",
+        "أتمتة عمليات البناء والنشر باستخدام CI/CD"
+      ],
+      "mainTech": [
+        "Flutter",
+        "Laravel",
+        "Google Cloud"
+      ],
+      "technologies": [
+        "Dart",
+        "PHP",
+        "MySQL",
+        "REST APIs",
+        "Clean Architecture",
+        "CI/CD",
+        "Fastlane",
+        "Git",
+        "Mobile Security",
+        "Agile"
+      ]
+    },
+    {
+      "company": "العمل الحر",
+      "title": "مطور تطبيقات الموبايل",
+      "years": "08.2022 - 01.2024",
+      "description": "تنفيذ تطبيقات أندرويد كاملة من الفكرة حتى الإطلاق باستخدام أحدث أدوات أندرويد.",
+      "responsibilities": [
+        "بناء تطبيقات أندرويد حسب متطلبات العملاء",
+        "تطبيق أنماط MVVM و Clean Architecture",
+        "دمج Firebase والخدمات الخارجية",
+        "تحسين الأداء والاستقرار عبر الأجهزة المختلفة"
+      ],
+      "mainTech": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Flutter"
+      ],
+      "technologies": [
+        "Android",
+        "Kotlin",
+        "Jetpack Compose",
+        "Coroutines",
+        "Hilt",
+        "Room",
+        "Firebase",
+        "REST APIs",
+        "Deep Linking",
+        "Git"
+      ]
+    },
+    {
+      "company": "Kerosene Tech",
+      "title": "مطور تطبيقات الأندرويد",
+      "years": "03.2022 - 09.2022",
+      "description": "المشاركة في تطوير تطبيق سوق إلكتروني متعدد البائعين مع تحسين الكود وتجربة المستخدم.",
+      "responsibilities": [
+        "تطوير ميزات أساسية داخل التطبيق",
+        "تحسين وإعادة هيكلة الكود الحالي",
+        "استهلاك واجهات REST وإدارة البيانات المحلية",
+        "العمل ضمن فريق باستخدام منهجية Agile"
+      ],
+      "mainTech": [
+        "Android",
+        "Java",
+        "MVVM"
+      ],
+      "technologies": [
+        "Android",
+        "Java",
+        "MVVM",
+        "Clean Architecture",
+        "Room",
+        "Retrofit2",
+        "REST APIs",
+        "Dependency Injection",
+        "Git"
+      ]
+    },
+    {
+      "company": "العمل الحر",
+      "title": "مطور تطبيقات الجوال",
+      "years": "01.2020 - 01.2022",
+      "description": "تطوير تطبيقات Flutter وأندرويد لعملاء في مجالات مختلفة مع التركيز على الجودة وتجربة المستخدم.",
+      "responsibilities": [
+        "بناء تطبيقات موبايل متعددة المنصات",
+        "دمج APIs و Firebase والإشعارات",
+        "تجهيز ونشر التطبيقات على المتاجر",
+        "التواصل المباشر مع العملاء وتحليل المتطلبات"
+      ],
+      "mainTech": [
+        "Flutter",
+        "Android",
+        "Dart"
+      ],
+      "technologies": [
+        "Flutter",
+        "Android",
+        "Dart",
+        "Firebase",
+        "REST APIs",
+        "State Management",
+        "SQLite",
+        "Push Notifications",
+        "Google Maps",
+        "Git"
+      ]
+    }
+  ]
+}
